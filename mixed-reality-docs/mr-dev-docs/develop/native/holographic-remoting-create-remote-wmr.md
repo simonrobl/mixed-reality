@@ -9,7 +9,6 @@ keywords: HoloLens, Remoting, Holographic Remoting, mixed reality headset, windo
 ---
 
 # Writing a Holographic Remoting Remote app using the HolographicSpace API
-
 If you're new to Holographic Remoting, you may want to [read our overview](holographic-remoting-overview.md).
 
 >[!IMPORTANT]
